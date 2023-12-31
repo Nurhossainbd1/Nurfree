@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8?
+#EXTINF:-1 ,BTV World
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 ,CHANNEL I
+http://208.86.19.13:81/510.stream/index.m3u8?
+#EXTINF:-1 ,Ekushey TV
+https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
