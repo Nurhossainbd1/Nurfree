@@ -1,473 +1,229 @@
 #EXTM3U
-#EXTINF:-1 ,Via Play Sports 1
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 ,Via Play Sports 2
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 ,Willow HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 ,True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 ,True Sports
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 ,SPORTSMAX 1
-https://is.gd/8Xi5qy
-#EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 ,TLT + Willow Sports
-http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
-#EXTINF:-1 ,T Sports Akash
-http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1 ,TNT Sports 4 🇮🇪
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
-#EXTINF:-1 ,sport
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
-#EXTINF:-1 ,MAX SPORTS 4 🇧🇬
-http://312834923831628466.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
-#EXTINF:-1 ,ESPN DEPORTE 🇺🇸
-http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
-#EXTINF:-1 ,LIVE FREECATV
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/chunks.m3u8
-#EXTINF:-1 ,PTV sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,Star Sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,Star sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 ,TLT  1
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
-#EXTINF:-1 ,Willow Cricket HD
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,ICC TV Add free Channel
-https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
-#EXTINF:-1 ,Gazi TV 2
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
-#EXTINF:-1 ,Willow Extra TV
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-#EXTINF:-1 ,Hoster Live 1
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1 ,RACING TV
-http://89.187.167.94:80/live.ts?channelId=98&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,EUROSPORT 2
-http://89.187.167.92:80/live.ts?channelId=102&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,ViaPlay 2 UK
-http://89.187.167.94:80/live.ts?channelId=105&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SPORTY STUFF
-http://89.187.167.94:80/live.ts?channelId=108&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports F1.
-http://89.187.167.92:80/live.ts?channelId=130&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS F1
-http://89.187.167.92:80/live.ts?channelId=131&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Arena.
-http://89.187.167.94:80/live.ts?channelId=132&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS MAIN EVENT
-http://89.187.167.94:80/live.ts?channelId=135&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Action./NFL
-http://89.187.167.94:80/live.ts?channelId=138&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS ACTION / NFL
-http://89.187.167.92:80/live.ts?channelId=139&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Mix.
-http://89.187.167.92:80/live.ts?channelId=140&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS MIX
-http://89.187.167.94:80/live.ts?channelId=141&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Football.
-http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Golf.
-http://89.187.167.94:80/live.ts?channelId=146&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports News.
-http://89.187.167.94:80/live.ts?channelId=150&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Golf.
-http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS GOLF
-http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,Sky Sports Racing.
-http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS RACING
-http://89.187.167.92:80/live.ts?channelId=149&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS NEWS
-http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,TNT Sport 1
-http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,TNT SPORTS 1
-http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1 ,ESPN 2 HD
-http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1 ,ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1 ,FoxSports  HD.
-http://45.166.92.22:58001/play/a02m/index.m3u8
-#EXTINF:-1 ,FOXSPORTS 3 HD.
-http://45.166.92.22:58001/play/a01j/index.m3u8
-#EXTINF:-1 ,GOLTV HD.
-http://45.166.92.22:58001/play/a04k/index.m3u8
-#EXTINF:-1 ,TyCSports HD.
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1 ,Fox Sports 3 LatinoAmerica HD
-http://167.250.222.35:16000/play/a07u/index.m3u8
-#EXTINF:-1 ,SPORTS TV 1
-http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
-#EXTINF:-1 ,T-Sports [3]
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,TYC SPORTS
-http://45.179.140.242:8000/play/a0k7
-#EXTINF:-1 ,TYC SPORTS
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 ,Sports TV
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,МАТЧ Футбол 3 HD 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 ,МАТЧ Футбол 3 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
-#EXTINF:-1 ,LIVE 1
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 ,LIVE 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 ,LIVE 4
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=591576&extension=ts&play_token=ZuOu1yk1WD
-#EXTINF:-1 ,ASTRO SUPER SPORTS
-https://mlb.mrgamingstreams.com/astro.m3u8
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW HD
-https://hls.streambtw.com/live/stream_e1.m3u8
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET XTRA
-http://livetvbox.live:8080/live/Anne/Anne/5040.m3u8
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET
-http://livetvbox.live:8080/live/Anne/Anne/215.ts
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET.
-http://livetvbox.live:8080/live/Anne/Anne/23943.ts
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET XTRA
-http://livetvbox.live:8080/live/Anne/Anne/5040.ts
-#EXTINF:-1 group-title="STAR SPORTS",STAR SPORTS 1
-http://103.102.27.173/live/tvfeed1003/index.m3u8
-#EXTINF:-1 group-title="STAR SPORTS",Star Sports 2
-http://103.120.172.74:4200
-#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS 3 NZ
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS 4 NZ
-https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS (MMNHD)
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS EXTRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports 1
-https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports 2
-https://edge1.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="TSPORTS",Tsports HD
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/T_sports/hls/index.m3u8
-#EXTINF:-1 group-title="SPORTSMAX",SPORTSMAX
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jotm3m_a8wn4PvnOuls_kj01ieR6k1mptTR8SytfsP8kBaL1eEexUbjoBZ3yZVSuP8qyO5Y8f-RwYhL_fDw7Rg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 group-title="ASPORTS",ASPORTS HD
-http://livetvbox.live:8080/live/Anne/Anne/43444.m3u8
-#EXTINF:-1 group-title="PTVSPORTS",PTV SPORTS
-http://livetvbox.live:8080/live/Anne/Anne/89.ts
-#EXTINF:-1 group-title="PTVSPORTS",PTV SPORTS (4K)
-http://livetvbox.live:8080/live/Anne/Anne/61674.ts
-#EXTINF:-1 group-title="TENSPORTS",TEN SPORTS
-http://livetvbox.live:8080/live/Anne/Anne/98.ts
-#EXTINF:-1 group-title="TRUE SPORTS",TRUE SPORTS 1
-https://edge1.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="TRUE SPORTS",True Sports 2
-https://edge2.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="TRUE SPORTS",True Sports 3
-https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="TRUE SPORTS",True Sports 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 group-title="TRUE SPORTS",TRUE SPORTS 7 VN
-https://edge2.laotv.la/live/TSports7/index.m3u8
-#EXTINF:-1 group-title="TRUE SPORTS",TRUE SPORTS PREMIER 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="TRUE SPORTS",True Sports Premier 2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS LALIGA
-https://sportsleading.online/live/stream_4.m3u8
-#EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS FOOTBALL
-https://sportsleading.online/live/stream_2.m3u8
-#EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS VARIETY 3
-https://sportsleading.online/live/stream_5.m3u8
-#EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS PL
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-#EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS VARIETY 2
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS VARIETY 2
-https://mlb.mrgamingstreams.com/variety2.m3u8
-#EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS VARIETY 3
-https://mlb.mrgamingstreams.com/variety3.m3u8
-#EXTINF:-1 group-title="TIGO SPORTS",TIGO SPORTS
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 1 HD
-http://livetvbox.live:8080/live/Anne/Anne/154.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY Ten 2 HD
-http://livetvbox.live:8080/live/Anne/Anne/192.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY Ten 2 HD.
-http://livetvbox.live:8080/live/Anne/Anne/31314.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 3 HD
-http://livetvbox.live:8080/live/Anne/Anne/146.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 4 (FHD)
-http://livetvbox.live:8080/live/Anne/Anne/29469.ts
-#EXTINF:-1 group-title="ASPORTS",ASPORT
-http://66.160.192.241/aspor/index.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",DUBAI SPORTS
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 2 FHD
-http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 3 FHD
-http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="AD SPORTS",AD Sports 1
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 group-title="AD SPORTS",AD Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 group-title="AD SPORTS",AD Sports1
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="SETENTA SPORTS",Setanta Sports 2 HD 🇷🇺
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
-#EXTINF:-1 group-title="XSPORTS",X SPORT
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 group-title="XSPORTS",X SPORT PLUS
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",Turkmenistan Sport 🇹🇲
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",QSPORT
-http://89.254.128.5:22280/qsport/index.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",Max Sport 3
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-#EXTINF:-1 group-title="EURO SPORTS",Euro Sports HD
-http://95.111.193.211:8106/play/a00x/index.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",ASH SPORTS
-http://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",Persiana Sports HD 🎾🎾🎾
-https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",SSC SPORTS 1
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="VIJU SPORTS",Viju Sports
-https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1 group-title="VIJU SPORTS",Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="VIJU SPORTS",VIJU SPORTS
-https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",KM SPORTS
-https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",M4TH CTPAHA SPORTS
-http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",MATCH SPORT
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",MOROCCO SPORTS
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",Euro Sports
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",ATN SPORTS
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",SAN MARINO SPORT
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",CBC SPORTS
-http://de.iptv.monster/play/434/1C8A51F9C90B579/video.m3u8
-#EXTINF:-1 group-title="SPORTTV",SPORT TV 1
-https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
-#EXTINF:-1 group-title="SPORTTV",SPORT TV
-https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
-#EXTINF:-1 group-title="SPORTTV",SPORT TV 2
-https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-#EXTINF:-1 group-title="SPORTTV",SPORT TV 3
-https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
-#EXTINF:-1 group-title="SPORTTV",SPORT TV 4
-https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
-#EXTINF:-1 ,M4 SPORTS
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-#EXTINF:-1 ,WSPORT
-https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-#EXTINF:-1 ,SPORT TV
-https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
-#EXTINF:-1 group-title="SPORTTV",SPORTS TV
-https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-#EXTINF:-1 ,CBS SPORTS
-https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
-#EXTINF:-1 group-title="VIAPLAY SPORTS",VIAPLAY SPORTS
-https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1 group-title="TRACE SPORTS",TRACE SPORTS
-http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TIGO SPORTS",Tigo Sports
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 group-title="SPORTTV",Sports tv
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 ,OPTUS SPORTS 1
-https://mlb.mrgamingstreams.com/hubprem.m3u8
-#EXTINF:-1 ,OPTUS SPORTS 4
-https://mlb.mrgamingstreams.com/optus.m3u8
-#EXTINF:-1 ,PREMIER SPORTS1
-https://mlb.mrgamingstreams.com/prem.m3u8
-#EXTINF:-1 ,USAN SPORT
-https://mlb.mrgamingstreams.com/usan.m3u8
-#EXTINF:-1 group-title="SPORTTV",SPORTS 1 HD
-https://mlb.mrgamingstreams.com/espn2.m3u8
-#EXTINF:-1 ,Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false?source:iptvmate.net
-#EXTINF:-1 group-title="SPORTTV",SPORT 1
-https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",ITV SPORTS
-https://sportsleading.online/live/stream_10.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8?source:iptvmate.net
-#EXTINF:-1 group-title="MIX SPORTS",MAHAR SPORTS
-http://tv.mahar.live/esports/mahar.stream/playlist.m3u8
-#EXTINF:-1 group-title="EURO SPORTS",Euro Sports 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
-#EXTINF:-1 group-title="HUB SPORTS",Hub Premier 2 HD
-https://mlb.mrgamingstreams.com/hubprem2.m3u8
-#EXTINF:-1 group-title="HUB SPORTS",Hub Premier 2 HD
-https://mlb.mrgamingstreams.com/hubprem3.m3u8
-#EXTINF:-1 group-title="DD SPORTS",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 group-title="ABU DUBAI SPORTS",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 group-title="ABU DUBAI SPORTS",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 group-title="ABU DUBAI SPORTS",Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1 group-title="ABU DUBAI SPORTS",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 group-title="EDGE SPORTS",EDGE SPORTS
-http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="EDGE SPORTS",EDGE SPORTS
-http://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TSPORTS",T Sports
-http://103.102.27.173/live/tvfeed1005/index.m3u8
-#EXTINF:-1 group-title="GEO SUPER",GEO SUPER
-http://livetvbox.live:8080/live/Anne/Anne/101.ts
-#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS
-http://livetvbox.live:8080/live/Anne/Anne/12.ts
-#EXTINF:-1 group-title="ASPORTS",ASPORTS HD
-http://livetvbox.live:8080/live/Anne/Anne/43444.ts
-#EXTINF:-1 group-title="FAST SPORTS",FAST SPORTS HD
-http://livetvbox.live:8080/live/Anne/Anne/87460.ts
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS CRICKET
-http://livetvbox.live:8080/live/Anne/Anne/1856.ts
-#EXTINF:-1 group-title="SPORTSMAX",SPORTSMAX CRICKET
-http://livetvbox.live:8080/live/Anne/Anne/142048.ts
-#EXTINF:-1 group-title="TEN CRICKET",TEN CRICKET HD
-http://livetvbox.live:8080/live/Anne/Anne/196594.ts
-#EXTINF:-1 group-title="Himel OP" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Himel OP'S IPTV
-http://1rdk.short.gy/Himel-Op-Official.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Somoy TV
-http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Ekhon TV
-http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Movie Bangla
-https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",BTV HD
-http://103.230.105.252:1935/live/btv/manifest.mpd
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Nexus TV
-https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",ATN Bangla
-https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Bangla TV
-http://aanax.com:8080/live/F31513/0a3204ef/296842.ts
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Banglavision HD
-https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Boishakhi TV
-https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Channel 24
-https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Bijoy TV
-https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Channel I HD
-https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Ekhon TV
-https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Green TV
-https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Independent TV
-https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Jamuna TV
-https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Ekushey TV
-https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Mohona TV HD
-https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",News 24 HD
-https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",RTV HD
-https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",SATV HD
-https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Zee Bangla Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",And TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Zee TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",& Pictutes HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Zee Cinema HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 group-title="English Infotainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",History TV 18
-http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
-#EXTINF:-1 group-title="STAR SPORTS",STAR SPORTS 1 HINDI
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 ,Dipto TV
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",Maasranga TV(BD)
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV(BDIX)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg",CHANNEL S HD
-http://208.86.19.13:81/519.stream/index.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://www.tbn24.com/public/website_logo.png",TBN 24 USA
-https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 ,Peace TV ENG
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 ,Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 ,Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 ,Colo HD
-http://95.111.193.211:8106/play/a00j/index.m3u8
-#EXTINF:-1 ,Discovery HD
-http://95.111.193.211:8106/play/a00q/index.m3u8
-#EXTINF:-1 ,EUROSPORT HD
-http://95.111.193.211:8106/play/a00m/index.m3u8
-#EXTINF:-1 ,FOX Life HD
-http://95.111.193.211:8106/play/a025/index.m3u8
-#EXTINF:-1 ,HBO Family
-http://95.111.193.211:8106/play/a01b/index.m3u8
-#EXTINF:-1 ,HBO Hits HD
-http://95.111.193.211:8106/play/a018/index.m3u8
-#EXTINF:-1 ,HBO Signature
-http://95.111.193.211:8106/play/a01a/index.m3u8
-#EXTINF:-1 ,Nat Geo HD
-http://95.111.193.211:8106/play/a00p/index.m3u8
-#EXTINF:-1 ,NatGeo Wild HD
-http://95.111.193.211:8106/play/a00y/index.m3u8
-#EXTINF:-1 ,SET HD
-http://95.111.193.211:8106/play/a00l/index.m3u8
-#EXTINF:-1 ,STAR JALSHA HD
-http://95.111.193.211:8106/play/a003/index.m3u8
-#EXTINF:-1 ,STAR MOVIES HD
-http://95.111.193.211:8106/play/a00o/index.m3u8
-#EXTINF:-1 ,Sun Bangla
-http://95.111.193.211:8106/play/a00z/index.m3u8
-#EXTINF:-1 ,Travelxp
-http://95.111.193.211:8106/play/a01o/index.m3u8
-#EXTINF:-1 ,ZEE BANGLA HD- 19
-http://95.111.193.211:8106/play/a00e/index.m3u8
-#EXTINF:-1 ,coloBanglaHD-14
-http://95.111.193.211:8106/play/a00s/index.m3u8
-#EXTINF:-1 ,nick HD+- Rs 10
-http://95.111.193.211:8106/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Fatiha
+https://server1.quraneralo.net/recitation/bn/01%20Al-Fatiha.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Baqarah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/002%20SURAH%20%20BAQARAH.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Imran
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/003%20%20SURA%20%20AL%20%20IMRAN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah An-Nisaa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/004%20SURA%20%20AN%20%20NISA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Maida
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/005%20SURA%20%20AL%20%20MAIDA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Anam
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/005%20%20SURA%20%20AL%20%20ANAM.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Araf
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/007%20SURA%20AL%20%20ARAF.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[008] Surah Al-Anfaal
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/008%20SURA%20%20AN%20FAL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[009] Surah At-Taubah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/009%20SURA%20%20TAWBA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[010] Surah Yunus
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/010%20%20SURA%20%20YUNUS.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[011] Surah Hud
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/011%20%20SURA%20%20HUD.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[012] Surah Yusuf
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/012%20%20SURA%20%20YUSUF.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[013] Surah Ar-Ra'd
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/013%20%20SURA%20%20RAAD.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[014] Surah Ibrahim
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/014%20SURA%20%20IBRAHIM.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[015] Surah Al-Hijr
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/015%20%20SURA%20%20AL%20%20HI%20JR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[016] Surah An-Nahl
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/016%20%20SURA%20%20AN%20%20NAHAL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[017] Surah Al-Israa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/017%20SURA%20%20BANI%20%20ISRAIEL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[018] Surah Al-Kahfi
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/018%20%20SURA%20%20AL%20%20KHAF.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[019] Surah Maryam
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/019%20%20SURA%20%20MARIYAM.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[020] Surah Taahaa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/020%20%20SURA%20%20TOAHA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[021] Surah Al-Anbiyaa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/021%20SURA%20%20AMBIA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[022] Surah Al-Hajj
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/022%20%20SURA%20AL%20HAZZ.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[023] Surah Al-Mu'minun
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/023%20%20SURA%20%20MOMINOON.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[024] Surah An-Nuur
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/024%20%20SURA%20AN%20NOOR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[025] Surah Al-Furqaan
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/025%20SURA%20AL%20Furqan.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[026] Surah Asy-Syu'araa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/026%20SURA%20%20AS%20SOOARA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[027] Surah An-Naml
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/027%20SURA%20AN%20NAMAL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[028] Surah Al-Qasas
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/028%20SURA%20AL%20KASAS.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[029] Surah Al-'Ankabut
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/029%20SURA%20AL%20%20ANKABOOT.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[030] Surah Ar-Rum
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/030%20SURA%20%20RA%20ROOM.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[031] Surah Luqman
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/031%20SURA%20%20LOOKMAN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[032] Surah As-Sajdah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/032%20SURA%20AS%20SASDA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[033] Surah Al-Ahzab
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/033%20SURA%20AL%20AHZAB.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[034] Surah Saba
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/034%20%20SURA%20%20SABA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[035] Surah Faatir
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/035%20%20SURA%20%20FATIR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[036] Surah Yaasin
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/036%20%20SURA%20%20YASIN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[037] Surah As-Saaffat
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/037%20%20SURA%20%20ASSAFFAT.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[038] Surah Saad
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/038%20SURA%20%20SWAD.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[039] Surah Az-Zumar
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/039%20SURA%20AZ%20%20ZOOMAR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[040] Surah Al-Mu'min
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/040%20SURA%20AL%20%20MOMINOON.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[041] Surah Fussilat/Surah Hamim AS Sasda
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/041%20SURA%20HAMIM%20AS%20SASDA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[042] Surah Asy-Syuraa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/042%20%20SURA%20AS%20SURA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[043] Surah Az-Zukhruf
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/043%20%20SURA%20%20AZZOKROOF.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[044] Surah Ad-Dukhaan
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/044%20SURA%20ADDOKHAN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[045] Surah Al-Jatsiyah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/045%20%20SURA%20%20Jathiya.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[046] Surah Al-Ahqaaf
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/046%20SURA%20AL%20AHKAB.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[047] Surah Muhammad
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/047%20SURA%20%20MOHAMMED.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[048] Surah Al-Fath
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/048%20%20SURA%20%20FATTAH.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[049] Surah Al-Hujurat
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/049%20%20SURA%20AL%20HUZURAT.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[050] Surah Qaaf
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/050%20SURA%20KAAF.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[051] Surah Adz-Dzariyaat
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/051%20%20SURA%20%20ZARIAT.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[052] Surah At-Tur
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/052%20SURA%20%20ATTOOR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[053] Surah An-Najm
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/053%20SURA%20ANNZAM.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[054] Surah Al-Qamar
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/054%20SURA%20KAMAR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[055] Surah Ar-Rahman
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/055%20SURA%20AR%20RAHMAN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[056] Surah Al-Waqi'ah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/056%20SURA%20%20WAKEYA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[057] Surah Al-Hadid
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/057%20SURA%20%20HADID.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[058] Surah Al-Mujadilah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/058%20%20SURA%20%20AL%20%20MUZADALA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[059] Surah Al-Hasyr
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/059%20SURA%20AL%20HASHOR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[060] Surah Al-Mumtahanah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/060%20SURA%20AL%20MOMTAHANA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[061] Surah As-Saf
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/061%20%20SURA%20%20ASSAF.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[062] Surah Al-Jumu'ah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/062%20SURA%20AL%20%20%20ZOOMA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[063] Surah Al-Munafiquun
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/063%20SURA%20Munafiqoon.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[064] Surah At-Taghabun
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/064%20%20SURA%20%20ATTAGABOON.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[065] Surah At-Talaq
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/065%20SURA%20%20ATTALAK.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[066] Surah At-Tahrim
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/066%20SURA%20%20ATTAHRIM.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[067] Surah Al-Mulk
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/067%20SURA%20AL%20MULK.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[068] Surah Al-Qalam
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/068%20SURA%20AL%20KALAM.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[069] Surah Al-Haaqqah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/069%20SURA%20AL%20HAKKA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[070] Surah Al-Ma'arij
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/070%20SURA%20AL%20MAAREZ.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[071] Surah Nuh
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/071%20SURA%20%20NOAH.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[072] Surah A-Jin
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/072%20%20SURA%20%20AL%20JINN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[073] Surah Al-Muzammil
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/073%20SURA%20AL%20MUZZAMMIL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[074] Surah Al-Muddathir
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/074%20SURA%20AL%20MUDDATHTHIR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[075] Surah Al-Qiyaamah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/075%20SURA%20AL%20QIYAMA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[076] Surah Al-Insaan/Surah Al-Dahr
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/076%20SURA%20ADDAHOR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[077] Surah Al-Mursalat
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/077%20SURA%20AL%20MURSALAT.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[078] Surah An-Naba
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/078%20SURA%20AN%20NABA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[079] Surah An-Naazi'aat
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/079%20%20SURA%20%20ANNAZIAT.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[080] Surah 'Abasa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/080%20SURA%20ABASA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[081] Surah At-Takwiir
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/081%20SURA%20%20AT%20TAKWIR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[082] Surah Al-Infitar
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/082%20SURA%20%20%20AL%20INFITOR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[083] Surah Al-Mutaffifiin
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/083%20%20SURA%20%20%20AL%20MUTAFFIFIN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[084] Surah Al-Insyiqaaq
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/084%20%20SURA%20%20%20AL%20%20INSHIQAQ.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[085] Surah Al-Buruj
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/085%20%20SURA%20%20%20AL%20BURUJ.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[086] Surah At-Taariq
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/086%20SURA%20%20%20ATTARIQ.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[087] Surah Al-A'laa
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/087%20%20SURA%20%20%20AL%20A%27%20LA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[088] Surah Al-Ghaasyiah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/088%20%20SURA%20%20%20AL%20%20GHASHIYA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[089] Surah Al-Fajr
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/089%20SURA%20%20%20AL%20%20FAJAR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[090] Surah Al-Balad
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/090%20%20SURA%20%20%20AL%20%20BALAD.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[091] Surah As-Syams
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/091%20SURA%20%20%20AL%20SHAMS.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[092] Surah Al-Lail
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/092%20%20SURA%20%20%20AL%20LAYL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[093] Surah Adh-Dhuha
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/093%20%20SURA%20%20%20AL%20DUHA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[094] Surah Al-Insyirah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/094%20SURA%20%20%20AL%20%20INSHIRAH.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[095] Surah At-Tin
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/095%20SURA%20%20%20AL%20TIN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[096] Surah Al-'Alaq
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/096%20SURA%20%20%20AL%20ALAQ.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[097] Surah Al-Qadr
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/097%20%20SURA%20%20%20AL%20%20QADAR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[098] Surah Al-Baiyinah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/098%20%20SURA%20%20%20AL%20%20BAYYINA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[099] Surah Al-Zalzalah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/099%20%20SURA%20%20%20AL%20ZALZAL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[100] Surah Al-'Aadiyaat
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/100%20%20SURA%20%20%20AL%20%20%20ADIYAT.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[101] Surah Al-Qari'ah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/101%20%20SURA%20%20%20AL%20%20%20QARIA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[102] Surah At-Takathur
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/102%20%20SURA%20%20%20AL%20%20%20TAKATHUR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[103] Surah Al-'Asr
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/103%20%20SURA%20%20%20AL%20%20ASR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[104] Surah Al-Humazah
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/104%20%20SURA%20%20%20AL%20HUMAZA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[105] Surah Al-Fiil
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/105%20%20SURA%20%20%20AL%20FIL.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[106] Surah Quraisy
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/106%20%20SURA%20%20QURAYSH.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[107] Surah Al-Ma'un
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/107%20%20SURA%20%20AL%20MA%27%20UN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[108] Surah Al-Kawsar
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/108%20%20SURA%20%20AL%20KAWSHAR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[109] Surah Al-Kafirun
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/109%20%20SURA%20%20AL%20KAFIRUN.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[110] Surah An-Nasr
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/110%20%20SURA%20%20AL%20NASR.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[111] Surah Al-Lahab
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/111%20%20SURA%20%20LAHAB.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[112] Surah Al-Ikhlas
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/112%20%20SURA%20%20AL%20IKHLAS.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[113] Surah Al-Falaq
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/113%20%20%20SURA%20%20AL%20FALAQ.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[114] Surah An-Naas
+https://archive.org/download/quran-recitation-with-bangla-translation_202402/114%20%20SURA%20AL%20NAS.mp3
