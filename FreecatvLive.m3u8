@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Fatiha
 https://server1.quraneralo.net/recitation/bn/01%20Al-Fatiha.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Baqarah
+#EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Baqarah
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/002%20SURAH%20%20BAQARAH.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Imran
+#EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Imran
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/003%20%20SURA%20%20AL%20%20IMRAN.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah An-Nisaa
+#EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah An-Nisaa
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/004%20SURA%20%20AN%20%20NISA.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Maida
+#EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Maida
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/005%20SURA%20%20AL%20%20MAIDA.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Anam
+#EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Anam
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/005%20%20SURA%20%20AL%20%20ANAM.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Araf
+#EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Araf
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/007%20SURA%20AL%20%20ARAF.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[008] Surah Al-Anfaal
+#EXTINF:-1 group-title="Ramadan Special" tvg-logo="https://i.postimg.cc/gJNBrmzK/images-5-29.jpg",Surah Al-Anfaal
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/008%20SURA%20%20AN%20FAL.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc3J9pt/Quran.png",[009] Surah At-Taubah
 https://archive.org/download/quran-recitation-with-bangla-translation_202402/009%20SURA%20%20TAWBA.mp3
